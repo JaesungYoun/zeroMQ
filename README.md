@@ -31,4 +31,10 @@ PUB-SUB 패턴은 서버가 클라이언트들에게 정보를 PUSH하는 단방
 
 <img src = "https://user-images.githubusercontent.com/73388615/149617709-a25870a7-b767-439d-b2a9-c5cd7506d8e1.png" width="300" height="300">    
 
-3) 
+3) PipeLine (Push-Pull)
+
+Pipleline 패턴은 PUSH – PULL 패턴의 소켓이 연결되어 단일 방향으로 메시지를 개별전송한다
+
+<img src = "https://user-images.githubusercontent.com/73388615/149618044-e6d90662-aa7a-495b-9295-20e9a8d7e725.png" width = "300" height="300">
+
+
