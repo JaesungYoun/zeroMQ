@@ -1,4 +1,4 @@
-## 1. ZMQ (Zero Message Queue)를 이용한 간단한 통신 패턴들 예제 구현 (C++)
+## 1. ZMQ (Zero Message Queue)를 이용한 간단한 통신 패턴구현 (C++)
 
 
 ZMQ란?
